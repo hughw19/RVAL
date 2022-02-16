@@ -1,6 +1,6 @@
 # Site settings
 course_name: Intorduction to Computer Vision
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "Computer vision is one of the major research fields of artificial intelligence, with many applications in image understanding and processing, medical care, autonomous driving, and robotics. We offer this undergraduate course to provide a comprehensive introduction to the basic concepts of computer vision and its broad applications. In this course, we will cover both the traditional non-learning methods (e.g. classic descriptors, multiview geometry) and deep learning based methods from a modern perspective, where 3D vision serves as a natural bridge.The objective of this course is thus to consolidate the fundemantals, depict a full picture of this field, and get the students prepared for doing frontier research in computer vision. During this course, students will learn to build a basic vision system and implement and train their own neural networks to process and analyze 2D and 3D visual data."
 course_semester: "Spring 2022"
 
 baseurl: "/IntrotoCV" # the subpath of your site, e.g. /blog/
@@ -11,8 +11,8 @@ schoolurl: "https://www.pku.edu.cn/"
 #twitter_username: username 
 
 address: |
-    School of Electronics Engineering and Computer Science
-    Peking University
+    Center on Frontiers of Computing Study, 
+    Peking University,
     Beijing, China
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
