@@ -1,0 +1,12 @@
+instructors:
+  - name: He Wang
+    profile_pic: /_images/pp/he_wang_image.jpg
+    webpage: https://hughw19.github.io/
+
+
+teaching_assistants:
+  - name: Jiazhao Zhang
+    profile_pic: /_images/pp/jiazhao_zhang_image.jpg
+
+  - name: Jiayi Chen
+    profile_pic: /_images/pp/jiayi_chen_image.jpg
