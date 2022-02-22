@@ -5,7 +5,7 @@ layout: home
 ## Logistics
 * Time: Wednesday 3:10 - 6:00 PM
 * Location: Room 421, Teaching Building 2, Peking University
-* Office Hour: Friday 4:30PM - 6PM
+* Office Hour: Friday 4:30PM - 6PM (Room 106-1, Courtyard No.5, Jingyuan)
 
 
 
