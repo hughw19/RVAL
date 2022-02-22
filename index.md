@@ -18,12 +18,11 @@ layout: home
 
 ## Grading 
 * Assignments(30%)
-
-  Please see [Assignments](https://hughw19.github.io/IntrotoCV/assignments/) page for more information.
-  
 * Midterm (30%)
 * Final (30%)
 * Course Presentation (10%)
+<!--- Please see [Assignments](https://hughw19.github.io/IntrotoCV/assignments/) page for more information. --->
+
 
 
 
