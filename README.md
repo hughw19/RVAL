@@ -2,4 +2,4 @@ Course webpage for Introduction to Computer Vision (Spring 2022) https://hughw19
 
 Powered by Jekyll with jekyll-course-website template. Hosted by GitHub Pages.
 
-Update at 2022/3/17
+Update at 3/17/2022
