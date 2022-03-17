@@ -5,3 +5,4 @@ name: Peking University Anniversary
 description: 'Peking University Anniversary'
 hide_from_announcments: true
 ---
+Peking University Anniversary
