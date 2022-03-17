@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2019-01-26T08:00:00+3:30
+date: 2022-05-04T08:00:00+3:30
 name: Peking University Anniversary
-description: 'Peking University Anniversary'
+description: 'One week break'
 hide_from_announcments: true
 ---
