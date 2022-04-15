@@ -7,6 +7,6 @@ attachment: /static_files/assignments/02_assignment.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2022-04-29T23:59:59
+    date: 2022-04-30T23:59:59
     description: 'Assignment #2 due'
 ---
