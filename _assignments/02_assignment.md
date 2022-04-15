@@ -2,8 +2,8 @@
 type: assignment
 date: 2022-04-15T23:59:59+8:49
 title: 'Assignment #2'
-# pdf: /static_files/assignments/01_assignment.pdf
-# attachment: /static_files/assignments/01_assignment.zip
+pdf: /static_files/assignments/02_assignment.pdf
+attachment: /static_files/assignments/02_assignment.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
