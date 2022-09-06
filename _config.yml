@@ -1,7 +1,7 @@
 # Site settings
-course_name: Intorduction to Computer Vision
-course_description: "Computer vision is one of the major research fields of artificial intelligence, with many applications in image understanding and processing, medical care, autonomous driving, and robotics. We offer this undergraduate course to provide a comprehensive introduction to the basic concepts of computer vision and its broad applications. In this course, we will cover both the traditional non-learning methods (e.g. classic descriptors, multiview geometry) and deep learning based methods from a modern perspective, where 3D vision serves as a natural bridge.The objective of this course is thus to consolidate the fundemantals, depict a full picture of this field, and get the students prepared for doing frontier research in computer vision. During this course, students will learn to build a basic vision system and implement and train their own neural networks to process and analyze 2D and 3D visual data."
-course_semester: "Spring 2022"
+course_name: Robot Vision and Learning
+course_description: "The research and development of robotic and unmanned systems, e.g.  home robots and autonomous vehicles, is a frontier field in computer science and artificial intelligence leading a way to artificial general intelligence (AGI). In recent years,  deep learning based 3D vision systems and reinforcement learning algorithms have achieved a number of breakthroughs, spawning the emerging field -- embodied artificial intelligence, and generating many new directions and topics worthy of in-depth investigation. Therefore, we offer this advanced graduate-level course for students with backgrounds in deep learning and computer vision to further their study in 3D vision and robot learning. The course will cover various tasks and problems ranging from the construction of robot vision systems to vision-based robot control and interaction, and aims to offer deep and broad discussion of this cutting-edge field."
+course_semester: "Fall 2022"
 
 baseurl: "/RVAL" # the subpath of your site, e.g. /blog/
 url: "https://hughw19.github.io/" # the base hostname & protocol for your site
