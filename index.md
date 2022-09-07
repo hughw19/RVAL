@@ -22,7 +22,7 @@ layout: home
 
  
 ## Grading 
-* 2 Assignments: each 30%, in total 60%
+* 3 Assignments: each 20%, in total 60%
 * 1 Course Presentation (in English): 40%
 <!--- Please see [Assignments](https://hughw19.github.io/IntrotoCV/assignments/) page for more information. --->
 
