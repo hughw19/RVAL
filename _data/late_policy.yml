@@ -1,3 +1,5 @@
 policies:
-  - You have 14 days to finish your assignment.
-  - After the 14 days, the penalty is 15% for each additional late day.
+  - Each assignment will give you two weeks + 1 mercy day to finish.
+  - If 1 day (0 - 24 hours) past the deadline, 10% off
+  - If 2 day (24 - 48 hours) past the deadline, 20% off
+  - Zero credit if more than 2 days.
