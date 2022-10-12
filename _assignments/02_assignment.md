@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2022-10-21T23:59:59+8:49
-title: 'Assignment #2'
+title: 'Assignment #2 (Planned)'
 
 due_event: 
     type: due
