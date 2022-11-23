@@ -23,8 +23,8 @@ layout: home
  
 ## Grading 
 * 3 Assignments: each 20%, in total 60%
-* 1 Group Project: 20%
-* 1 Group Presentation (in English): 20%
+* 1 Group Project: 40%
+
 <!--- Please see [Assignments](https://hughw19.github.io/IntrotoCV/assignments/) page for more information. --->
 
 
