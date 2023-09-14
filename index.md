@@ -5,8 +5,7 @@ layout: home
 ## Logistics
 * Time: Wednesday 3:10 - 6:00 PM
 * Location: 
-    * Room 211, Peking University (Changping Campus) 
-    * Room 211, Teaching Building 2, Peking University (Haidian Campus)
+    * Room 103, Peking University (Changping Campus) 
 * Office Hour: Friday 4:30PM - 5:30PM (Room 106-1, Courtyard No.5, Jingyuan)
 
 
