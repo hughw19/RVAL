@@ -1,5 +1,5 @@
 # Site settings
-course_name: Robot Vision and Learning - From a Modern Perspective of Embodied AI
+course_name: Robot Vision and Learning - Towards Embodied AI
 course_description: "The research and development of robotic and unmanned systems, e.g.  home robots and autonomous vehicles, is a frontier field in computer science and artificial intelligence leading a way to artificial general intelligence (AGI). In recent years,  deep learning based 3D vision systems and reinforcement learning algorithms have achieved a number of breakthroughs, spawning the emerging field -- embodied artificial intelligence, and generating many new directions and topics worthy of in-depth investigation. Therefore, we offer this advanced graduate-level course for students with backgrounds in deep learning and computer vision to further their study in 3D vision and robot learning. The course will cover various tasks and problems ranging from the construction of robot vision systems to vision-based robot control and interaction, and aims to offer deep and broad discussion of this cutting-edge field."
 course_semester: "Fall 2023"
 
