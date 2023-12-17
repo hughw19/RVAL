@@ -6,6 +6,6 @@ pdf: /static_files/assignments/final_project.pdf
 attachment: /static_files/assignments/final_project.zip
 due_event: 
     type: due
-    date: 2024-1-14T23:59:59
+    date: 2024-1-17T23:59:59
     description: 'Final Project Due'
 ---
