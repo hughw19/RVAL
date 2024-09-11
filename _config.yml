@@ -40,7 +40,7 @@ collections:
     lectures:
         output: true
     assignments:
-        output: true
+        output: false
     announcements:
         output: false
 
